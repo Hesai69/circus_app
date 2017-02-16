@@ -8,3 +8,8 @@
 
 Clown.create({name: "Pennywise", nose_color: "red"})
 Clown.create({name: "Chuckles", nose_color: "blue"})
+
+Car.create({make: "Toyota", model: "Prius", year: "2008", color: "Blue", capacity: 5})
+Car.create({make: "Honda", model: "Accord", year: "2014", color: "Silver", capacity: 6})
+
+Circu.create({location: "El Monte", starts_on: "Friday", ends_on: "Sunday", price_of_tix: 10})
